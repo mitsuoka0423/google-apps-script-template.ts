@@ -1,4 +1,4 @@
-# line-google-photo.ts
+# google-apps-script-template.ts
 
 ## Requirement
 
